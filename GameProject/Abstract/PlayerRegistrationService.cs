@@ -6,7 +6,7 @@ using GameProject.Entity;
 
 namespace GameProject.Abstract
 {
-    public abstract class PlayerRegistrationService
+    public abstract class PlayerRegistrationService:IPlayerRegistrationService
        
 
     {
